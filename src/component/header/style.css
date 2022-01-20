@@ -1,0 +1,15 @@
+
+.info{
+    
+  background-color: rgba(223, 80, 175, 0.822);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    color: aliceblue;
+    font-size: 50px;
+    line-height: 1.4;
+  }
+  img{
+    padding-left: 20px;
+  }
